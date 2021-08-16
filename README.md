@@ -1,5 +1,7 @@
 # HELLO THERE! My name is Miguel Campos!
 
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1629065437496.png" alt="OctaCat" width="350px" height="350px">
+
 * :wave: Hi, I'm @miguelcampos
 
 * :eyes: I’m interested in learning more about technology.
