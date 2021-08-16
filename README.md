@@ -43,5 +43,4 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Mikael)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypto-Mikael&show_icons=true&theme=radical)
